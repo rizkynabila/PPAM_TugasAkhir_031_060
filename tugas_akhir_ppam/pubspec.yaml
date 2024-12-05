@@ -1,0 +1,25 @@
+name: tugas_akhir_ppam
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  intl: ^0.20.0
+  hive_ce: ^2.8.0
+  hive_ce_flutter: ^2.1.0
+  hive_ce_generator: ^1.8.0
+  build_runner: ^2.4.13
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
